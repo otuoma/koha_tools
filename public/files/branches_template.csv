@@ -1,0 +1,5 @@
+code,name,address,zip_code,city,state,country,phone,email,url,ip_address,notes
+1,Branch one,333,1001,Nairobi,Nairobi,Africa,98765,email@test.com,,123.45.21.234,test note 1
+2,Branch two,334,1002,Mombasa,Mombasa,Asia,98766,email@test.com,,123.45.21.235,test note 2
+3,Branch three,335,1003,Abuja,Abuja,Austria,98767,email@test.com,,123.45.21.236,test note 3
+4,Branch four,336,1004,Niger,Niger,Antarctica,98768,email@test.com,,123.45.21.237,test note 4
