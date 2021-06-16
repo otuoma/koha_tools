@@ -20,4 +20,6 @@ them in bulk.
 
 4. Ensure write permissions are correct for the folder `/usr/share/koha/intranet/htdocs/koha_tools/writable`
 
-5. Restart apache2 `sudo service apache2 restart` 
+5. Restart apache2 `sudo service apache2 restart`
+
+6. Login to the system using your existing koha username and password
