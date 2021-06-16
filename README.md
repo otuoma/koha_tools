@@ -23,3 +23,5 @@ them in bulk.
 5. Restart apache2 `sudo service apache2 restart`
 
 6. Login to the system using your existing koha username and password
+
+![img.png](img.png)
