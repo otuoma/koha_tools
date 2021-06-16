@@ -12,6 +12,7 @@ class Branches extends BaseController{
     private $db;
 
     function __construct() {
+
         $this->db = db_connect();
     }
 

@@ -1,5 +1,5 @@
 # KOHA Tools on Codeigniter
-Strange as it may seem, but this tool helps you upload branches in bulk. If you need to create very many
+Strange as it may seem, but this tool helps you upload branches in bulk using csv files. If you need to create very many
 branches on koha and do not want to do it manually, this tool helps you upload a csv file to add
 them in bulk.
 ## Installation
@@ -12,7 +12,7 @@ them in bulk.
        Options Indexes FollowSymLinks
        AllowOverride None
        Require all granted
-       </Directory>
+   </Directory>
    Alias /koha_tools "/usr/share/koha/intranet/htdocs/koha_tools/public"
     ```
 
